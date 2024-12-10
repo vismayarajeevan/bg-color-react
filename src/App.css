@@ -8,3 +8,14 @@
      border: none;
   
 }
+
+@media (max-width:480px){
+  .button{
+    width: 50px;
+    font-size: 12px;
+
+  }
+  .head{
+    font-size: 20px;
+  }
+}
