@@ -10,7 +10,7 @@ const [bgColor, setBgColor] =useState("light")
   return (
     <>
       
-      <div style={{width:"100%", height:"100vh", background:bgColor}} className='d-flex justify-content-center align-items-center'>
+      <div style={{width:"100%", height:"100vh", background:bgColor}} className='main d-flex justify-content-center align-items-center'>
         <div className='p-5 rounded'>
           <h1 className='head text-center fw-bold'>Background Color Changer</h1>
           <div className='p-5 d-flex justify-content-center'>
